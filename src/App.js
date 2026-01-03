@@ -1,8 +1,8 @@
 import {HashRouter, Route, Routes} from 'react-router-dom';
 import './App.css';
-import Home from 'src/pages/home';
-import About from 'src/pages/about';
-import Projects from 'src/pages/projects';
+import Home from './pages/home';
+import About from './pages/about';
+import Projects from './pages/projects';
 import Contact from './pages/contact';
 
 function App() {
