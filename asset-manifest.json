@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/professionalprofile/static/css/main.dc4d6ff2.css",
-    "main.js": "/professionalprofile/static/js/main.80a4b6c1.js",
+    "main.css": "/professionalprofile/static/css/main.ca8c08be.css",
+    "main.js": "/professionalprofile/static/js/main.ae921ec3.js",
+    "static/media/Lerato ProPic.png": "/professionalprofile/static/media/Lerato ProPic.8aec93fe7d854e97bef5.png",
     "index.html": "/professionalprofile/index.html",
-    "main.dc4d6ff2.css.map": "/professionalprofile/static/css/main.dc4d6ff2.css.map",
-    "main.80a4b6c1.js.map": "/professionalprofile/static/js/main.80a4b6c1.js.map"
+    "main.ca8c08be.css.map": "/professionalprofile/static/css/main.ca8c08be.css.map",
+    "main.ae921ec3.js.map": "/professionalprofile/static/js/main.ae921ec3.js.map"
   },
   "entrypoints": [
-    "static/css/main.dc4d6ff2.css",
-    "static/js/main.80a4b6c1.js"
+    "static/css/main.ca8c08be.css",
+    "static/js/main.ae921ec3.js"
   ]
 }
