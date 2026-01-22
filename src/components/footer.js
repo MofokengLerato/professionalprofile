@@ -18,7 +18,7 @@ const Footer = () => {
         {/* Right */}
         <div className="flex gap-4">
           <a
-            href="https://github.com/yourusername"
+            href="https://mofokenglerato.github.io/professionalprofile/"
             target="_blank"
             rel="noreferrer"
             className="hover:text-blue-500"
@@ -26,7 +26,7 @@ const Footer = () => {
             GitHub
           </a>
           <a
-            href="https://linkedin.com/in/yourusername"
+            href="linkedin.com/in/lerato-mofokeng-a43799201"
             target="_blank"
             rel="noreferrer"
             className="hover:text-blue-500"
