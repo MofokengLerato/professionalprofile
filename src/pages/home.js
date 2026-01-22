@@ -1,5 +1,3 @@
-import React from "react";
-import Navbar from "../components/navbar";
 import Profilepicture from "../assets/Lerato ProPic.png";
 import PageWrapper from "../components/pagewrapper";
 
